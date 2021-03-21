@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AndroidHomework1</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text">Press me</string>
+    <string name="hit">Hit me</string>
+    <string name="replace">Replace me</string>
+    <string name="back">Back</string>
+    <string name="exit">Exit</string>
+</resources>
